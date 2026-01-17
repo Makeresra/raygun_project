@@ -1,4 +1,4 @@
-// Ray Gun Mark 2 - TAM VE HATASIZ KOD
+// Ray Gun Mark 2
 
 // Pin Tanımlamaları
 const int redPin = 9;    // Kırmızı LED bacağı
@@ -56,4 +56,3 @@ void fireRayGun() {
   
   delay(120); 
 } 
-// Kod burada biter, bu son parantez çok önemlidir!
