@@ -71,6 +71,6 @@ It features realistic **RGB LED** animations that mimic the in-game effects and 
 3.  **Upload:** Connect your Arduino Nano and upload the code.
 4.  **Enjoy:** Go hunt some zombies! 🧟‍♂️
 
-*Made by **Maker Esra** with ❤️ & ☕*
+*Made by **Maker Esra** *
 
 </div>
