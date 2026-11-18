@@ -32,7 +32,7 @@ Silah, oyundaki efektleri taklit eden **RGB LED** animasyonlarına ve **TP4056**
 * **Kontrol:** 1x Tetik Butonu, 1x Açma/Kapama Anahtarı
 
 ### 🎬 Proje Videosu
-[![Ray Gun Video İzle](https://img.youtube.com/shorts/m2fBxtq7gsY?si=z9H8qqPbrcsMRT3U.jpg)](https://youtube.com/shorts/m2fBxtq7gsY?si=z9H8qqPbrcsMRT3U)
+[![Ray Gun Video İzle](https://img.youtube.com/vi/m2fBxtq7gsY/maxresdefault.jpg)](https://youtube.com/shorts/m2fBxtq7gsY?si=z9H8qqPbrcsMRT3U)
 
 ---
 ---
@@ -58,7 +58,7 @@ It features realistic **RGB LED** animations that mimic the in-game effects and 
 * **Controls:** 1x Tactile Button (Trigger), 1x Toggle Switch (Main Power)
 
 ### 🎬 Watch the Video
-[![Watch Ray Gun Video](https://img.youtube.com/shorts/m2fBxtq7gsY?si=z9H8qqPbrcsMRT3U.jpg)](https://youtube.com/shorts/m2fBxtq7gsY?si=z9H8qqPbrcsMRT3U)
+[![Watch Ray Gun Video](https://img.youtube.com/vi/m2fBxtq7gsY/maxresdefault.jpg)](https://youtube.com/shorts/m2fBxtq7gsY?si=z9H8qqPbrcsMRT3U)
 
 ---
 
